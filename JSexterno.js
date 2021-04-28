@@ -1,0 +1,1 @@
+nome=prompt("Escreva o seu nome: ","");
